@@ -1,0 +1,20 @@
+#hero{
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    background: url('./Images/about-bg.jpg')top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.color{
+    color: #fff !important;
+    background-color: #8f8989 !important;
+    opacity: 0.4;
+}
+#text1{
+    color: peru;
+}
+li{
+    list-style: none;
+}
